@@ -1,0 +1,621 @@
+[
+  {
+    "pergunta": "Qual ação no Excel mostra todos os dias do mês de agosto após o dia 08?",
+    "opcoes": [
+      "Digitar =dias(agosto; 9; 31)",
+      "Digitar =complete(::31)",
+      "Clicar no canto inferior direito duas vezes e preencher com 9 e 31",
+      "Clicar no canto inferior direito e arrastar até 31/ago"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Isabela deve enviar um arquivo por e-mail. Qual é a forma correta?",
+    "opcoes": [
+      "Usar e-mail pessoal",
+      "Criar novo e-mail",
+      "Usar e-mail corporativo",
+      "Usar e-mail do supervisor"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "São exemplos de armazenamento em nuvem:",
+    "opcoes": [
+      "Google Drive e Onedrive",
+      "Google Chrome e Microsoft Edge",
+      "Microsoft Excel e Word",
+      "Winrar e Winzip"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "No Excel, qual função conta células que atendem a critérios?",
+    "opcoes": [
+      "SOMA",
+      "MÉDIA",
+      "CONT.VALORES",
+      "CONT.SE"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Finalidade da opção 'Quebra de página' no Word:",
+    "opcoes": [
+      "Adicionar página em branco",
+      "Dividir texto em colunas",
+      "Inserir página de rosto",
+      "Iniciar nova página do ponto selecionado"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual fórmula calcula a média das notas de Ana no Excel?",
+    "opcoes": [
+      "=MED(B2;D2)",
+      "=MÉDIA(B2:D2)",
+      "=MÉDIA(B2;D2)",
+      "=MÉDIA.ARITMÉTICA(B2:D2)"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual fórmula exibe 'APROVADO' se a média for >= 7?",
+    "opcoes": [
+      "=SE(MÉDIA(B2:D2) > 7; \"APROVADO\"; \"REPROVADO\")",
+      "=SE(MÉDIA(B2;D2) >7; \"APROVADO\"; \"REPROVADO\")",
+      "=SE(MÉDIA(B2:D2) >=7; \"APROVADO\"; \"REPROVADO\")",
+      "=SE(MÉDIA(B2:D2) <7; \"REPROVADO\"; \"APROVADO\")"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual fórmula retorna o menor valor da 'Nota 1'?",
+    "opcoes": [
+      "=MENOR(B2;B5;1)",
+      "=MENOR(B2:B5;1)",
+      "=MÍNIMO(B2;B5)",
+      "=MÍNIMO(B2:B5;1)"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é o número da porta usada pelo protocolo HTTPS?",
+    "opcoes": [
+      "80",
+      "8080",
+      "433",
+      "443"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual comando no Linux cria arquivos vazios?",
+    "opcoes": [
+      "touch",
+      "mkdir",
+      "rm",
+      "cat"
+    ],
+    "correta": 0
+  }
+]
+
+[
+  {
+    "pergunta": "Qual alternativa descreve corretamente o uso de e-mail no ambiente de trabalho?",
+    "opcoes": [
+      "Responder imediatamente todos os e-mails",
+      "Usar gírias e abreviações informais",
+      "Manter os e-mails curtos e objetivos",
+      "Enviar e-mails pessoais para colegas"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual fórmula no Excel exibe 'APROVADO' se a média for maior que 7?",
+    "opcoes": [
+      "=SE(MÉDIA(B2:D2) > 7; \"APROVADO\"; \"REPROVADO\")",
+      "=SE(MÉDIA(B2;D2) >7; \"APROVADO\"; \"REPROVADO\")",
+      "=SE(MÉDIA(B2:D2) >=7; \"APROVADO\"; \"REPROVADO\")",
+      "=SE(MÉDIA(B2:D2) <7; \"REPROVADO\"; \"APROVADO\")"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual fórmula calcula a média ponderada das notas de Ana?",
+    "opcoes": [
+      "=MÉDIA(B2:D2)",
+      "=MÉDIA(B2:D2;0,2;0,3;0,5)",
+      "=(B2*0,2+C2*0,3+D2*0,5)/(0,2+0,3+0,5)",
+      "=MÉDIA.PONDERADA(B2:D2;0,2;0,3;0,5)"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual guia do Word 2010 contém a opção de inserir tabelas?",
+    "opcoes": [
+      "Página Inicial",
+      "Inserir",
+      "Revisão",
+      "Formatar"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual tecla renomeia um arquivo no Windows XP?",
+    "opcoes": [
+      "F1",
+      "F2",
+      "F5",
+      "F11"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual alternativa descreve corretamente o conceito de Software?",
+    "opcoes": [
+      "Parte física do computador",
+      "Programas para tarefas específicas",
+      "Sistema operacional",
+      "Conjunto de instruções que orienta o hardware"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual alternativa apresenta dois serviços de infraestrutura em nuvem?",
+    "opcoes": [
+      "Google Drive e Office 365",
+      "Google Chrome e Microsoft Edge",
+      "AWS e Azure",
+      "Mozilla Firefox e Opera GX"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual comando no Excel duplica fórmula e formatação da célula acima?",
+    "opcoes": [
+      "Ctrl + C",
+      "Ctrl + V",
+      "Ctrl + D",
+      "Ctrl + X"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual alternativa descreve corretamente o conceito de encapsulamento?",
+    "opcoes": [
+      "Herança",
+      "Polimorfismo",
+      "Relacionamento",
+      "Ocultação dos detalhes internos dos objetos"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual é a função do comando 'touch' no Linux?",
+    "opcoes": [
+      "Cria arquivos duplicados",
+      "Cria arquivos vazios",
+      "Deleta arquivos duplicados",
+      "Deleta arquivos vazios"
+    ],
+    "correta": 1
+  }
+]
+
+[
+  {
+    "pergunta": "Qual alternativa apresenta os rótulos do eixo 'Categorias' em um gráfico do Excel?",
+    "opcoes": [
+      "Nota 1 - Nota 2 - Nota 3",
+      "Ana - Beatriz - Carlos - Daniel",
+      "Nome do Estudante - Nota 1 - Nota 2 - Nota 3",
+      "7,5 - 10 - 9,5 - 9 - 8 - 9,5 - 8 - 9 - 10 - 5 - 3,5 - 8,5"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual recurso do Excel replica fórmulas automaticamente?",
+    "opcoes": [
+      "Formatação Condicional",
+      "Colar Fórmulas e Funções",
+      "Preenchimento Matemático",
+      "Preenchimento Automático"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual guia do Word XP permite inserir número de página?",
+    "opcoes": [
+      "Inserir",
+      "Editar",
+      "Arquivo",
+      "Exibir"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "O que é um Spyware?",
+    "opcoes": [
+      "Um antivírus",
+      "Um antimalware",
+      "Um software instalado sem que a vítima saiba",
+      "Um software de proteção contra keylogger"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual método padronizado de arquivamento é citado corretamente?",
+    "opcoes": [
+      "Automático",
+      "Geográfico",
+      "Ordinário",
+      "Ideográfico"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual navegador NÃO é um browser?",
+    "opcoes": [
+      "Internet Explorer",
+      "Outlook Express",
+      "Google Chrome",
+      "Safari"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual tecla permite selecionar todos os arquivos em uma pasta?",
+    "opcoes": [
+      "SHIFT + clique",
+      "Ctrl + A",
+      "F4",
+      "Selecionar todos"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual alternativa define corretamente o conceito de SaaS?",
+    "opcoes": [
+      "Venda de licenças de software",
+      "Software como serviço",
+      "Infraestrutura como serviço",
+      "Plataforma como serviço"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual alternativa apresenta serviços de infraestrutura em nuvem?",
+    "opcoes": [
+      "Google Drive e Office 365",
+      "Google Chrome e Microsoft Edge",
+      "AWS e Azure",
+      "Mozilla Firefox e Opera GX"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual alternativa define corretamente o conceito de encapsulamento?",
+    "opcoes": [
+      "Herança",
+      "Polimorfismo",
+      "Relacionamento",
+      "Ocultação dos detalhes internos dos objetos"
+    ],
+    "correta": 3
+  }
+]
+
+[
+  {
+    "pergunta": "Joaquina percebeu lentidão e falhas em seu computador com Windows 10. Quais ferramentas ela usou para diagnóstico de hardware e memória?",
+    "opcoes": [
+      "Diagnósticos de conflitos do Windows e Monitor de recursos",
+      "Monitor de desempenho e Diagnóstico de memória do Windows",
+      "Gerenciamento do Hardware e Desfragmentador e Otimizador de Memória do Windows",
+      "Análise e mapeamento de hardware do Windows e Análise e mapeamento de memória do Windows"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Ao pressionar [Win + CTRL + F4] no Windows 10, qual ação é executada?",
+    "opcoes": [
+      "Abrir a Cortana no modo de escuta",
+      "Adicionar uma área de trabalho virtual",
+      "Fechar a área de trabalho virtual que está sendo usada",
+      "Alternar entre áreas de trabalho virtuais que foram criadas à direita"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual nome de diretório é válido no Windows 10?",
+    "opcoes": [
+      "musicas:2017",
+      "musicas|2017",
+      "musicas#2017",
+      "musicas*2017"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual atalho fecha a janela atual no Windows 10?",
+    "opcoes": [
+      "Ctrl+F",
+      "Ctrl+E",
+      "Ctrl+S",
+      "Ctrl+W"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual comando chkdsk corrige erros do disco?",
+    "opcoes": [
+      "chkdsk /R",
+      "chkdsk /C",
+      "chkdsk /F",
+      "chkdsk /V",
+      "chkdsk /I"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Para criar uma tabela com 3 colunas e 5 linhas no Word 2013, deve-se clicar em:",
+    "opcoes": [
+      "Formatar > Tabela > Desenhar Tabela",
+      "Layout da Página > Tabela > Criar Tabela",
+      "Design > Tabela de Conteúdo > Nova Tabela",
+      "Tabela > Tabela de Conteúdo > Sumário Automático",
+      "Inserir > Tabela > Escolher colunas e linhas"
+    ],
+    "correta": 4
+  },
+  {
+    "pergunta": "Para numerar páginas no Word 2013 corretamente, deve-se clicar em:",
+    "opcoes": [
+      "Inserir / Número de Página",
+      "Layout / Inserir Número de Página",
+      "Design / Inserir Número de Página",
+      "Formatar / Inserir Número de Página",
+      "Referências / Inserir Número de Página"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual atalho reduz o tamanho da fonte em 1 ponto no Word 2013?",
+    "opcoes": [
+      "CTRL + [",
+      "CTRL + ]",
+      "CTRL + {",
+      "CTRL + }"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Ao pressionar F9 no Word 2013, qual ação é realizada?",
+    "opcoes": [
+      "Repetir a última ação",
+      "Estender uma seleção",
+      "Atualizar campos selecionados",
+      "Ativar os atalhos da faixa de opções"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual atalho alinha um parágrafo à margem esquerda no Word 2013?",
+    "opcoes": [
+      "CTRL + P",
+      "CTRL + Q",
+      "CTRL + S",
+      "CTRL + W"
+    ],
+    "correta": 1
+  }
+]
+
+[
+  {
+    "pergunta": "Qual guia do Word 2013 facilita o uso de temas, estilos e recursos de formatação?",
+    "opcoes": [
+      "Design",
+      "Exibição",
+      "Referências",
+      "Correspondências"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Ao abrir um documento criado em versão anterior do Word, aparece uma expressão na barra de título. Qual é?",
+    "opcoes": [
+      "Faixa de Opções",
+      "Modelo de Exibição",
+      "Modo de Compatibilidade",
+      "Verificação de Disponibilidade"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quais são os atalhos para Salvar, Abrir e Ortografia e Gramática no Word 2013?",
+    "opcoes": [
+      "CTRL + O; CTRL + S; F5",
+      "CTRL + A; CTRL + B; F6",
+      "CTRL + B; CTRL + A; F7",
+      "CTRL + S; CTRL + O; F8"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quais funções representam as teclas F4 e F8 no Word 2013?",
+    "opcoes": [
+      "Repetir a última ação e estender uma seleção",
+      "Escolher o comando Ir para e ir para o próximo campo",
+      "Atualizar campos selecionados e mover textos ou elementos gráficos",
+      "Inserir texto automático e verificar ortografia"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual função é acionada com o atalho CTRL + U no Word 2013?",
+    "opcoes": [
+      "Sublinhar letras",
+      "Limpar formatação",
+      "Substituir texto",
+      "Alternar alinhamento"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual atalho transforma texto selecionado em maiúsculo no Word 2013?",
+    "opcoes": [
+      "SHIFT + F2",
+      "SHIFT + F3",
+      "SHIFT + F4",
+      "SHIFT + F5"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Ao clicar na numeração de página na Barra de Status do Word 2013, qual painel é aberto?",
+    "opcoes": [
+      "Leitura",
+      "Tarefas",
+      "Controle",
+      "Navegação"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Como criar uma fórmula matricial no Excel 2013?",
+    "opcoes": [
+      "ALT + ENTER",
+      "CTRL + SHIFT + ENTER",
+      "Botão 'Fórmula matricial' na guia Inserir",
+      "Botão 'Matrizes' na guia Fórmulas"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "O que significa o erro '#NUM!' no Excel 2013?",
+    "opcoes": [
+      "Função inexistente",
+      "Tipo de valor incorreto",
+      "Valores inválidos para a função",
+      "Endereço de célula removido"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quais ações são realizadas com CTRL + 2 e CTRL + 3 no Excel 2013?",
+    "opcoes": [
+      "Tachado / Itálico",
+      "Negrito / Tachado",
+      "Itálico / Negrito",
+      "Negrito / Itálico"
+    ],
+    "correta": 3
+  }
+]
+
+[
+  {
+    "pergunta": "Qual botão deve ser clicado para somar uma coluna ou linha de números no Excel 2013?",
+    "opcoes": [
+      "Delta",
+      "Autosoma",
+      "Multinomial",
+      "Autosequencial"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual fórmula conta o número de células que atendem a um critério específico no Excel 2013?",
+    "opcoes": [
+      "CONT.SE",
+      "CONT.SES",
+      "CONT.NÚM",
+      "CONT.VALORES"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual combinação de teclas cria um gráfico dos dados no intervalo atual no Excel 2013?",
+    "opcoes": [
+      "ALT + F1",
+      "CTRL + F2",
+      "CTRL + ALT + F9",
+      "ALT + SHIFT + F1"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual atalho escolhe corretamente o comando Imprimir no Excel 2013?",
+    "opcoes": [
+      "CTRL + SHIFT + F6",
+      "CTRL + SHIFT + F8",
+      "CTRL + SHIFT + F10",
+      "CTRL + SHIFT + F12"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Quais afirmativas sobre a área de trabalho do Windows 10 estão corretas?",
+    "opcoes": [
+      "I, II, III e IV",
+      "I e II, apenas",
+      "I e III, apenas",
+      "II e IV, apenas",
+      "I, II e III, apenas"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual combinação de teclas abre a visão de tarefas no Windows 10?",
+    "opcoes": [
+      "Win + A",
+      "Win + S",
+      "Win + C",
+      "Win + Tab"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual dos seguintes nós NÃO é exibido na raiz do Explorador de Arquivos do Windows 10?",
+    "opcoes": [
+      "Atalhos",
+      "Bibliotecas",
+      "Acesso rápido",
+      "Este Computador"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual das opções NÃO é uma configuração dos planos de energia no Windows 10?",
+    "opcoes": [
+      "Quando desligar o vídeo",
+      "O nível de brilho do vídeo",
+      "Melhor eficiência energética",
+      "Quando suspender o computador"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual tecla completa a combinação para minimizar todas as janelas no Windows 10?",
+    "opcoes": [
+      "I",
+      "K",
+      "L",
+      "M"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Em um computador com tela sensível ao toque, qual ação ocorre ao deslizar da borda interna da tela?",
+    "opcoes": [
+      "Exibir a central de ações",
+      "Expandir ou diminuir uma seleção",
+      "Exibir a barra de tarefas quando oculta",
+      "Exibir a visão de tarefas de todas as janelas abertas"
+    ],
+    "correta": 2
+  }
+]
